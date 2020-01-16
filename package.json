@@ -3,7 +3,7 @@
   "version": "0.15.99",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
-  "maintainer": "Zcoin Developers",
+  "maintainer": "Vcoin Developers",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -26,11 +26,11 @@
     "bip69",
     "bip70",
     "multisig",
-    "zcoin"
+    "vcoin"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:zcoinofficial/vcore-lib.git"
+    "url": "git@github.com:ternio/vcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
