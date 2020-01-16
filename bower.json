@@ -1,6 +1,6 @@
 {
-  "name": "zcore-lib",
-  "main": "./zcore-lib.min.js",
+  "name": "vcore-lib",
+  "main": "./vcore-lib.min.js",
   "version": "5.0.0-beta.1",
   "homepage": "http://bitcore.io",
   "authors": ["BitPay, Inc."],
