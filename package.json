@@ -1,6 +1,6 @@
 {
   "name": "vcore-lib",
-  "version": "0.15.99",
+  "version": "0.16.02",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "maintainer": "Vcoin Developers",
